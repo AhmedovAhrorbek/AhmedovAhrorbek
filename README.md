@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahrorbek</h1>
 <h3 align="center">frontend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **typescript,zustand,tanstack query**
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **@ahrorbekfrontenddeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
