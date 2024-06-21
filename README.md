@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **typescript,zustand,tanstack query**
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **@ahrorbekfrontenddeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
