@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahrorbek</h1>
 <h3 align="center">I am frontend developer</h3>
 
-- 🔭 I’m currently working on **SRM system**
+- 🔭 I’m currently working on **CRM system**
 
 - 🌱 I’m currently learning **typescript,zustand,tanstack query**
 
