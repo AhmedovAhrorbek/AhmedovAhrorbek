@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CRM system**
 
-- 🌱 I’m currently learning **next.js,zustand,tanstack query**
+- 🌱 I’m currently learning **everything 😂😂**
 
 - 📫 How to reach me **ahrorbekfrontenddeveloper@gmail.com**
 
