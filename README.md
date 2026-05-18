@@ -147,20 +147,6 @@ Clone of the popular video streaming platform.
 
 🔗 https://youtube-clone-appreact.netlify.app/
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedovAhrorbek&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedovAhrorbek&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedovAhrorbek&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 💡 Quote
