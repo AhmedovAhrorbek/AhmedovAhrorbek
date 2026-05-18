@@ -36,15 +36,15 @@ Frontend Developer | React & Next.js Enthusiast 🚀
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://t.me/ahr">
+<a href="https://t.me/ahrorbekahmedov" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/ahrorbek-ahmedov-02b845279/">
+<a href="https://www.linkedin.com/in/ahrorbek-ahmedov-02b845279/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:ahrorbekfrontenddeveloper@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -55,21 +55,29 @@ Frontend Developer | React & Next.js Enthusiast 🚀
 
 ### Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,html,css,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass,html,css,vite" />
 </p>
 
 ### UI Libraries
 <p align="left">
 <img src="https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
 <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white" />
 </p>
 
 ### State Management & API
 <p align="left">
-<img src="https://skillicons.dev/icons?i=redux" />
 <img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+### Form & Drag Drop
+<p align="left">
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Beautiful_DnD-FF69B4?style=for-the-badge" />
 </p>
 
 ### Testing
@@ -86,19 +94,58 @@ Frontend Developer | React & Next.js Enthusiast 🚀
 
 ## 📌 Featured Projects
 
-### 🏢 Index Bozor
-Modern marketplace platform with scalable frontend architecture.
-
-**Tech:** React, TypeScript, React Query, Zustand, Ant Design
-
----
-
 ### ⛽ UGAZ
-Gas management platform with analytics and dashboard tools.
+Monitoring and analytics dashboard for gas stations across Uzbekistan.
 
-**Tech:** React, TypeScript, Ant Design, React Query, Leaflet
+**Tech:** React, TypeScript, Ant Design, React Query, Zustand, React Hook Form, i18next, Axios, Vite, Vitest, Leaflet
+
+🔗 https://ugaz.uz
 
 ---
+
+### 🏢 ARM
+Fuel station management dashboard for operators to monitor pumps, manage transactions, and control station operations.
+
+**Tech:** React, TypeScript, Ant Design, React Query, Zustand, React Hook Form, i18next, Axios, Vite, Vitest
+
+---
+
+### ☕ Ucafe
+Admin and seller dashboard for managing coffee shop and food ordering operations with role-based access.
+
+**Tech:** React, TypeScript, Ant Design, React Query, Zustand, React Beautiful DnD
+
+---
+
+### 🇰🇷 Manineko Admin
+Admin dashboard for managing Korean student agency operations, applications, and student workflows.
+
+**Tech:** React, TypeScript, Ant Design, React Query, Context API
+
+---
+
+### 🚗 IndexBozor
+Vehicle marketplace platform for posting car listings, browsing offers, and managing advertisements.
+
+**Tech:** Next.js
+
+🔗 https://indexbozor.uz
+
+---
+
+### 🤖 AI Seller
+AI-powered seller admin dashboard for managing products, sales workflows, and automated marketplace operations.
+
+**Tech:** React, TypeScript, Ant Design, React Query, Zustand, React Beautiful DnD
+
+---
+
+### ▶️ YouTube Clone
+Clone of the popular video streaming platform.
+
+**Tech:** React, RapidAPI, Material UI, Context API
+
+🔗 https://youtube-clone-appreact.netlify.app/
 
 ## 📊 GitHub Stats
 
